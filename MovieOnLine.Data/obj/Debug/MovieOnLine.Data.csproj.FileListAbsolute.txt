@@ -1,0 +1,15 @@
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\bin\Debug\MovieOnLine.Data.dll.config
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\bin\Debug\MovieOnLine.Data.dll
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\bin\Debug\MovieOnLine.Data.pdb
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\bin\Debug\EntityFramework.dll
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\bin\Debug\EntityFramework.xml
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\obj\Debug\MovieOnLine.Data.csprojAssemblyReference.cache
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\obj\Debug\MovieOnLine.Data.csproj.CopyComplete
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\obj\Debug\MovieOnLine.Data.dll
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\obj\Debug\MovieOnLine.Data.pdb
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\obj\Debug\MovieOnLine.Data.Migrations.movie_created.resources
+C:\Users\HecToR\source\repos\MoviesOnLine\MovieOnLine.Data\obj\Debug\MovieOnLine.Data.csproj.GenerateResource.cache
